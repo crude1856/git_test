@@ -1,2 +1,5 @@
 Hello I'm just following what odin said "just add some text to the hello_world.txt" file,
 and like a sheep, here I am.
+
+Quotes:
+    "The past is in your head, the future is in your hands."
